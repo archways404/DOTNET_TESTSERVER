@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ltWcOPHv+wO3ShycG9W94ak+6Jn2nwcuxCSrACCFOx0=",
+  "Source": "TestWebServer",
+  "BasePath": "_content/TestWebServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
